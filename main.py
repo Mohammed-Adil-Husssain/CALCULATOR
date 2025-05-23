@@ -61,6 +61,5 @@ for i in range(4):
     root.grid_columnconfigure(i,weight=1)
 for i in range(5):
     root.grid_rowconfigure(i,weight=1)
-
     
 root.mainloop()
